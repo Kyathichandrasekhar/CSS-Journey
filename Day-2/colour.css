@@ -1,0 +1,16 @@
+body {
+    background-color: #dbeafe;
+}
+
+h1 {
+    color: rgb(255, 0, 0);
+}
+
+.rgb-text {
+    color: rgb(0, 128, 0);
+}
+
+.hex-text {
+    color: #0000ff;
+    background-color: #fef3c7;
+}
